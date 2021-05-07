@@ -1,0 +1,9 @@
+server:
+  port: 8912
+
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/students
+    username: postgres
+    password: postgres
+    pool-size: 30
