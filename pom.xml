@@ -9,8 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<!-- comentario para webhook -->
-	<!-- comentario para webhook con tarea a docker -->
-	<!-- comentario para webhook con tarea a docker inside -->
+	<!-- agregar tareas al final de la ejecucion -->
 	<groupId>com.mitocode.sample</groupId>
 	<artifactId>api</artifactId>
 	<version>1.0.23</version>
